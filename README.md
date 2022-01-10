@@ -1,9 +1,8 @@
 # <strong> Javascript Clock
 
 <br>
-<hr>
 
-## Kullanıcıdan adınız alınız:
+## Kullanıcıdan adını alınız:
 
 ![github](/images/firststep.png)
 
@@ -13,7 +12,7 @@
 
 ## Kullanıcıdan gelen girdiyi ve şuana ait zaman dilimini ekranda gösteriniz.
 
-![github](/images/secondstep.png)
+![github](/images/mainpage.png)
 
 <br>
 <hr>
